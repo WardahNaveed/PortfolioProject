@@ -1,0 +1,140 @@
+.navigation{
+    display: flex;
+    width: 375px;
+    height: 48px;
+    padding: 4px 24px 4px 12px;
+    align-items: flex-start;
+    gap: 199px;
+    flex-shrink: 0;
+    }
+    
+    
+    .MyLogo{
+        display: flex;
+        align-items: center;
+    padding: 10px 12px;
+    color: var(--primary-b-400, #6070FF);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    }
+    
+    .header-introduction{
+    display: inline-flex;
+    padding: 114px 24px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    background-image: url("backgroud.jpg");
+    }
+    
+    .header-name{
+        display: flex;
+        width: 300px;
+        height: 150px;
+        flex-direction: column;
+        justify-content: center;
+        color: var(--neutrals-n-800, #172B4D);
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+        ;
+    }
+    .header-detail{
+        width: 300px;
+        height: 146px;
+        color: var(--neutrals-n-600, #344563);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    }
+    p{
+        color: var(--primary-b-300, #7F8CFF);
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    }
+    .header-socialMediaIcons{
+        width: 170.167px;
+        height: 20px;
+    }
+.navigation{
+    display: flex;
+    width: 375px;
+    height: 48px;
+    padding: 4px 24px 4px 12px;
+    align-items: flex-start;
+    gap: 199px;
+    flex-shrink: 0;
+    }
+    
+    
+    .MyLogo{
+        display: flex;
+        align-items: center;
+    padding: 10px 12px;
+    color: var(--primary-b-400, #6070FF);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    }
+    
+    .header-introduction{
+    display: inline-flex;
+    padding: 114px 24px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    background-image: url("backgroud.jpg");
+    }
+    
+    .header-name{
+        display: flex;
+        width: 300px;
+        height: 150px;
+        flex-direction: column;
+        justify-content: center;
+        color: var(--neutrals-n-800, #172B4D);
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+        ;
+    }
+    .header-detail{
+        width: 300px;
+        height: 146px;
+        color: var(--neutrals-n-600, #344563);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    }
+    p{
+        color: var(--primary-b-300, #7F8CFF);
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    }
+    .header-socialMediaIcons{
+        width: 170.167px;
+        height: 20px;
+    }
