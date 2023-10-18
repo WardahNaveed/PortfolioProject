@@ -1,0 +1,401 @@
+.navigation{
+    display: flex;
+    width: 375px;
+    height: 48px;
+    padding: 4px 24px 4px 12px;
+    align-items: flex-start;
+    gap: 199px;
+    flex-shrink: 0;
+    }
+    
+    
+    .MyLogo{
+        display: flex;
+        align-items: center;
+    padding: 10px 12px;
+    color: var(--primary-b-400, #6070FF);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    }
+    
+    .header-introduction{
+    display: inline-flex;
+    padding: 114px 24px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    background-image: url("backgroud.jpg");
+    }
+    
+    .header-name{
+        display: flex;
+        width: 300px;
+        height: 150px;
+        flex-direction: column;
+        justify-content: center;
+        color: var(--neutrals-n-800, #172B4D);
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+        ;
+    }
+    .header-detail{
+        width: 300px;
+        height: 146px;
+        color: var(--neutrals-n-600, #344563);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    }
+    p{
+        color: var(--primary-b-300, #7F8CFF);
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    }
+    .header-socialMediaIcons{
+        width: 170.167px;
+        height: 20px;
+    }
+.navigation{
+    display: flex;
+    width: 375px;
+    height: 48px;
+    padding: 4px 24px 4px 12px;
+    align-items: flex-start;
+    gap: 199px;
+    flex-shrink: 0;
+    }
+    
+    
+    .MyLogo{
+        display: flex;
+        align-items: center;
+    padding: 10px 12px;
+    color: var(--primary-b-400, #6070FF);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    }
+    
+    .header-introduction{
+    display: inline-flex;
+    padding: 114px 24px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    background-image: url("backgroud.jpg");
+    }
+    
+    .header-name{
+        display: flex;
+        width: 300px;
+        height: 150px;
+        flex-direction: column;
+        justify-content: center;
+        color: var(--neutrals-n-800, #172B4D);
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+        ;
+    }
+    .header-detail{
+        width: 300px;
+        height: 146px;
+        color: var(--neutrals-n-600, #344563);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    }
+    p{
+        color: var(--primary-b-300, #7F8CFF);
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    }
+    .header-socialMediaIcons{
+        width: 170.167px;
+        height: 20px;
+    }
+
+     /* WORK + ABOUT MYSELF SECTION */
+
+
+.workCards{
+    display: inline-flex;
+    padding: 114px 24px;
+    flex-direction: column;
+    align-items: center;
+    gap: 88px;
+    }
+    
+    .card{
+    display: flex;
+    padding: 16px;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    border-radius: 16px;
+    border: 1px solid var(--neutrals-n-40, #DFE1E6);
+    background: var(--neutrals-n-0, #FFF);
+    }
+    .primarytext{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    }
+    .heading{
+    width: 295px;
+    height: 36px;
+    color: var(--neutrals-n-800, #172B4D);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 44px;
+    }
+    .list{
+        display: flex;
+    align-items: center;
+    gap: 12px;
+    }
+    #l1{
+        display: flex;
+    padding: 8px 0px;
+    align-items: center;
+    color: var(--neutrals-n-600, #344563);
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px;
+    }
+    #l2{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    
+    }
+    #l3{
+        display: flex;
+    padding: 8px 0px;
+    align-items: center;
+    color: var(--neutrals-n-100, #7A869A);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px;
+    }
+    
+    .work-description{
+        width: 295px;
+    height: 76px;
+    color: var(--neutrals-n-600, #344563);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    }
+    .work-language{
+        display: flex;
+        width: 295px;
+    }
+    .work-lang{
+        display: flex;
+    padding: 4px 12px;
+    align-items: center;
+    border-radius: 8px;
+    background: var(--primary-b-50, #EBEBFF);
+    color: var(--primary-b-400, #6070FF);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.36px;
+    }
+    .outerbutton{
+        display: flex;
+    padding: 12px 169px 12px 0px;
+    align-items: center;
+    }
+    .button{
+        display: flex;
+        padding: 12px;
+        align-items: center;
+        gap: 10px;
+        border-radius: 8px;
+    border: 1px solid var(--primary-b-400, #6070FF);
+    color: var(--primary-b-500, #396DF2);
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.51px;
+    }
+
+
+    /* ABOUT MYSELF */
+
+    .abtMySelf{
+        display: inline-flex;
+    padding: 114px 24px;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    }
+    .top{
+        display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    }
+    .about-heading{
+        display: flex;
+    width: 327px;
+    height: 35px;
+    flex-direction: column;
+    justify-content: center;
+    color: var(--neutrals-n-800, #172B4D);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+    }
+    .about-description{
+        width: 327px;
+    height: 147px;
+    color: var(--neutrals-n-600, #344563);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    }
+    .about-connection{
+        display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    }
+    .about-connect{
+        color: var(--primary-b-300, #7F8CFF);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    }
+    .about-button{
+        display: flex;
+    padding: 12px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    border: 1px solid var(--primary-b-400, #6070FF);
+    color: var(--primary-b-500, #396DF2);
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.51px;
+    }
+    .about-languages{
+        display: flex;
+    padding: 16px 26px 16px 12px;
+    align-items: center;
+    gap: 12px;
+    }
+    .word{
+        width: 237px;
+        color: #000;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    }
+    .languageList{
+        display: flex;
+    padding: 12px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    }
+    .about-lang{
+        display: flex;
+    width: 303px;
+    padding: 9px 12px 9.716px 12px;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    border-radius: 8px;
+    background: var(--neutrals-n-10, #F7F7F9);
+    }
+    .icon{
+        width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+    border-radius: 48px;
+    border: 1px solid var(--neutrals-n-0, #FFF);
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    }
+    .names{
+        display: flex;
+    width: 215px;
+    height: 24px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: var(--neutrals-n-700, #253858);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    }
+    .otherOptions{
+        display: flex;
+        width: 327px;
+        height: 72px;
+    }
+    .words{
+        display: flex;
+        width: 237px;
+        color:#000;
+        font-size: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        line-height: 24px;
+    }
